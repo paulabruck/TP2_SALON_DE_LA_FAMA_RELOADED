@@ -1,0 +1,4 @@
+entrenador1;1
+Pikachu;1;1;1;1;1
+Entrenador2;3
+

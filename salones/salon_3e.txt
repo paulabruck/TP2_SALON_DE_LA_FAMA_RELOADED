@@ -1,0 +1,11 @@
+Juan;1
+Pikachu;1;1;1;1;1
+Charizard;2;2;2;2;2
+Bulbasaur;3;3;3;3;3
+Yony;3
+Pikachu;1;1;1;1;1
+Charizard;2;2;2;2;2
+Bulbasaur;3;3;3;3;3
+Azul;2
+Pikachu;1;1;1;1;1
+Bulbasaur;3;3;3;3;3

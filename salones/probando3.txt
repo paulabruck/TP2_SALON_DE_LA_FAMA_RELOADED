@@ -1,0 +1,6 @@
+Entrenador1;2
+Charizard;2;2;2;2;2
+Entrenador2;3
+Charizard;2;2;2;2;2
+Entrenador3;3
+Pikachu;3;3;3;3;3
